@@ -10,14 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/r-argentina-programa/simon-dice.git"
   },
-  "author": "",
+  "author": "argentina-programa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/r-argentina-programa/simon-dice/issues"
   },
   "homepage": "https://github.com/r-argentina-programa/simon-dice#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1"
-  }
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "keywords": [
+    "simon",
+    "dice",
+    "juego"
+  ]
 }
